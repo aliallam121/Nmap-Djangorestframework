@@ -1,0 +1,4 @@
+django
+python3-nmap
+djangorestframework
+requests
